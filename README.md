@@ -1,3 +1,3 @@
-# An MOM Example Whose Results Come Out to Be Complex Number
+# An MOM Example
 
-Open in [nbviewr](https://nbviewer.jupyter.org/github/yc14e/complex-mom-example/tree/main/merton_mom.ipynb). 
+The results come out to be complex numbers. See the example in [nbviewr](https://nbviewer.jupyter.org/github/yc14e/complex-mom-example/tree/main/merton_mom.ipynb). 
